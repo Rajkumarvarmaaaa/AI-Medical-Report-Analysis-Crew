@@ -36,8 +36,8 @@ Follow these steps to get the application running on your local machine.
 Clone the project from GitHub. Replace `your-repository-name.git` with the actual repository name.
 
 ```bash
-git clone https://github.com/Rajkumarvarmaaaa/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/Rajkumarvarmaaaa/AI-Medical-Report-Analysis-Crew.git
+cd AI-Medical-Report-Analysis-Crew
 ```
 
 ### Step 2: Create and Activate a Virtual Environment
